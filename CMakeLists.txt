@@ -20,8 +20,8 @@ endif()
 
 FetchContent_Declare(
         ftxui
-        GIT_REPOSITORY https://github.com/ArthurSonzogni/ftxui
-        GIT_TAG d48e3decfc8a552c3afdbf2201542da403539281
+        GIT_REPOSITORY https://github.com/aaleino/FTXUI.git
+        GIT_TAG 40929423e0b3eb5e276661be91f183641440cd5c
         )
 FetchContent_GetProperties(ftxui)
 if(NOT ftxui_POPULATED)
