@@ -34,9 +34,9 @@ include_directories("${CMAKE_BINARY_DIR}/_deps/ftxui-src/include")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++2a -pthread")
 
-add_executable(timeAccumulator main.cpp liveApplication.cpp liveApplication.h
-        mainSystem.cpp mainSystem.h intermediateSystem.cpp intermediateSystem.h
-        fileSystem.cpp fileSystem.h language.h language.cpp)
+add_executable(timeAccumulator src/main.cpp src/liveApplication.cpp src/liveApplication.h
+        src/mainSystem.cpp src/mainSystem.h src/intermediateSystem.cpp src/intermediateSystem.h
+        src/fileSystem.cpp src/fileSystem.h src/language.h src/language.cpp)
 
 target_link_libraries(timeAccumulator
         PRIVATE ftxui::screen
