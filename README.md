@@ -6,9 +6,7 @@ A TUI app that accumulates working times, allows users to track work minutes and
 
 General use of the app.
 
-```
 ![demo_windows](./doc/demo_windows.gif)
-```
 
 ## About Time Accumulator
 
