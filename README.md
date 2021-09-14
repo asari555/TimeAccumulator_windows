@@ -49,7 +49,7 @@ In addition, each summary stage is regenerated after the next required number of
 + Go up `U`: Scroll daily report histories page up.
 + Go down `D`: Scroll daily report histories page down.
 + Esc `⎋`: Escape from the current window.
-+ Return `⮠`: Select.
++ Return `⮠``: Select.
 
 ## Dependencies
 
