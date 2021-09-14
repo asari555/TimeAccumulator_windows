@@ -13,7 +13,6 @@ int main() {
     liveApplication::TimeAccumulator timeAccumulator(mainSystem);
     timeAccumulator.on_quit = screen.ExitLoopClosure();
 
-
     /// 1. Thread
     std::thread update([&]() {
         std::unique_lock<std::mutex> lock(uniqueMutex);

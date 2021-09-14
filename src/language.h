@@ -151,25 +151,25 @@ private:
             L"Son Yıllık Özet",
             L"Ana Komutlar:",    // index: 135
             L" > Başla",
-            L"         çalışma başlat",
+            L"              çalışma başlat",
             L" > Bitir",
-            L"         çalışmayı sonlandır",
+            L"              çalışmayı sonlandır",
             L" > Ekle",    // index: 140
-            L"          el ile dakika/lar ekle",
+            L"               el ile dakika/lar ekle",
             L" > Sil",
-            L"           fazlalık dakika/ları sil",
+            L"                fazlalık dakika/ları sil",
             L" > Özet",
-            L"          son özetler listesini göster",    // index: 145
+            L"               son özetler listesini göster",    // index: 145
             L" > Özelleştir",
-            L"    özelleştirme sayfasını aç",
+            L"         özelleştirme sayfasını aç",
             L" > Yardım",
-            L"        yardım bildirgesini göster",
+            L"             yardım bildirgesini göster",
             L" > Hakkında",    // index: 150
-            L"      uygulama hakkında bilgiler sun",
+            L"           uygulama hakkında bilgiler sun",
             L" > Sıfırla",
-            L"       kayıtlı tüm veriyi sil",
+            L"            kayıtlı tüm veriyi sil",
             L" > Çıkış",
-            L"         uygulamayı kapat",    // index: 155
+            L"              uygulamayı kapat",    // index: 155
             L"İpucu: ",
             L"\"T.\"\'lerin açılımını görmek için sayfayı genişetin",
             L"Önerilen Klavye Komutları:",
@@ -180,7 +180,7 @@ private:
             L" > Yukarı-Aşağı Ok",
             L"    üst veya alt elemana geç",
             L" > Esc",    // index: 165
-            L"               geri dön",
+            L"                geri dön",
             L" > Enter",
             L"              onayla",
             L" > U Harfi",
