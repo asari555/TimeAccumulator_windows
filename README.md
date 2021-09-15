@@ -2,6 +2,10 @@
 
 A TUI app that accumulates working times, allows users to track work minutes and session in a day, lets users make aware about your performance summaries of previous day, week, month, and year, and users' increased/decreased performance compared to the previous day.
 
+## OS
+
+Windows 10
+
 ## Demonstration 
 
 General use of the app.
