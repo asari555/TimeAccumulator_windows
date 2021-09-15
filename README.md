@@ -6,6 +6,10 @@ A TUI app that accumulates working times, allows users to track work minutes and
 
 Windows 10
 
+## Compiled Via
+
+MinGW-64 64-bit g++
+
 ## Demonstration 
 
 General use of the app.
