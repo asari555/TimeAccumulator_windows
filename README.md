@@ -1,5 +1,9 @@
 # Time Accumulator
 
+![license][badge.license]
+
+[badge.license]: https://img.shields.io/github/license/asari555/TimeAccumulator_windows?color=red
+
 A TUI app that accumulates working times, allows users to track work minutes and session in a day, lets users make aware about your performance summaries of previous day, week, month, and year, and users' increased/decreased performance compared to the previous day.
 
 ## OS
