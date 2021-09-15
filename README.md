@@ -56,7 +56,10 @@ In addition, each summary stage is regenerated after the next required number of
 + [Boost 1.75.0](https://www.boost.org/doc/libs/1_75_0/more/getting_started/windows.html)
 + [ftxui](https://github.com/aaleino/FTXUI.git) 
 + [msgpack-c](https://github.com/msgpack/msgpack-c/tree/cpp_master)
+<<<<<<< HEAD
 + DLLs
   - libgcc_s_seh-1.dll
   - libstdc++-6.dll
   - libwinpthread-1.dll
+=======
+>>>>>>> 8760e8b (Updated.)
