@@ -1,14 +1,15 @@
 # Time Accumulator
 
-![license][badge.license]
-
-[badge.license]: https://img.shields.io/github/license/asari555/TimeAccumulator_windows?color=red
-
 A TUI app that accumulates working times, allows users to track work minutes and session in a day, lets users make aware about your performance summaries of previous day, week, month, and year, and users' increased/decreased performance compared to the previous day.
 
 ## OS
 
-Windows 10
+win-64
+
+## Other OS
+
+linux-64
+osx-64
 
 ## Compiled Via
 
@@ -74,3 +75,4 @@ In addition, each summary stage is regenerated after the next required number of
   - libgcc_s_seh-1.dll
   - libstdc++-6.dll
   - libwinpthread-1.dll
+
