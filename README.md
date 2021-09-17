@@ -28,7 +28,7 @@ A TUI app that accumulates working times, allows users to track work minutes and
 
 + For another platform, please click
 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/asari555/TimeAccumulator)
 
     [![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)](https://github.com/asari555/TimeAccumulator_macos)
 
