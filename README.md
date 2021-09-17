@@ -1,19 +1,44 @@
 # Time Accumulator
 
+![license][badge.license]
+![C++][badge.cpp]
+
+[badge.license]: https://img.shields.io/github/license/asari555/TimeAccumulator_windows?color=brightgreen
+[badge.cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
+
 A TUI app that accumulates working times, allows users to track work minutes and session in a day, lets users make aware about your performance summaries of previous day, week, month, and year, and users' increased/decreased performance compared to the previous day.
 
-## OS
+### Table of Contents
 
-win-64
++ **[Operating Sytems](#operating-sytems)**
++ **[Tested On](#tested-on)**
++ **[Compiled Via](#compiled-via)**
++ **[Demonstration](#demonstration)**
++ **[About Time Accumulator](#about-time-accumulator)**
++ **[Calendar Abstraction](#calendar-abstraction)**
++ **[Command Keys](#command-keys)**
++ **[Dependencies](#dependencies)**
++ **[Prerequisite Libraries](#prerequisite-libraries)**
 
-## Other OS
+## Operating Sytems
 
-linux-64
-osx-64
++ Current platform
+
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
++ For another platform, please click
+
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+    [![Mac OS](https://img.shields.io/badge/mac%20os-gray?style=flat&logo=macos&logoColor=F0F0F0)](https://github.com/asari555/TimeAccumulator_macos)
+
+## Tested On
+
+![windows-10](https://img.shields.io/badge/windows-10-brightgreen.svg)
 
 ## Compiled Via
 
-MinGW-64 64-bit g++
+> Mingw-w64 g++
 
 ## Demonstration 
 
@@ -75,4 +100,3 @@ In addition, each summary stage is regenerated after the next required number of
   - libgcc_s_seh-1.dll
   - libstdc++-6.dll
   - libwinpthread-1.dll
-
