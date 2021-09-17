@@ -6,7 +6,7 @@
 [badge.license]: https://img.shields.io/github/license/asari555/TimeAccumulator_windows?color=brightgreen
 [badge.cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
 
-A TUI app that accumulates working times, allows users to track work minutes and session in a day, and lets users make aware about their performance summaries of previous day, week, month, year. Additionaly, this app indicates users' increased/decreased performance values compared to the previous day.
+A TUI app that accumulates working times, allows users to track work minutes and session in a day, and lets users make aware about their performance summaries of previous day, week, month and year. Additionaly, this app indicates users' increased/decreased performance values compared to the previous day.
 
 ### Table of Contents
 
@@ -73,7 +73,7 @@ In addition, each summary stage is regenerated after the next required number of
 
 + Current platform
 
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/asari555/TimeAccumulator_windows)
 
 + For another platform, please click
 
